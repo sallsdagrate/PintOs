@@ -1,0 +1,7 @@
+Full robustness of argument passing and system calls:
+- Test robustness of "exec" system calls.
+5	exec-over-arg
+5	exec-over-args
+5	sc-bad-num
+5	exec-wait-kill
+5	wait-bad-child
